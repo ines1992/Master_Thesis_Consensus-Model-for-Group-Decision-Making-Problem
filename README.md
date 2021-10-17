@@ -27,10 +27,10 @@ Then you just download the repository and import into the python jupyter noteboo
 3. MATH
 
 NOTE:  In the repository, there are 4 main  code files:
-1- Reference Paper Implementation : includes our implemented code of the algorithm of "Measuring and reaching consensus in group decision making with the
+1. Reference Paper Implementation : includes our implemented code of the algorithm of "Measuring and reaching consensus in group decision making with the
 linguistic computing model based on discrete fuzzy numbers, Xiao-yu Ma, Meng Zhao, Xiao Zou".
-2-Proposed Implementation (Random approach): includes our implemented codes of our own approach with random function(1-3 files have the implmentation with consensus criteria theta = 0.90 and 4-6 files with consensus criteria theta = 0.95)
-3-Proposed Implementation (Probability approach): includes our implemented codes of our own approach with probability function(1 file has the implmentation with consensus criteria theta = 0.90 and other file with consensus criteria theta = 0.95)
+2. Proposed Implementation (Random approach): includes our implemented codes of our own approach with random function(1-3 files have the implmentation with consensus criteria theta = 0.90 and 4-6 files with consensus criteria theta = 0.95)
+3. Proposed Implementation (Probability approach): includes our implemented codes of our own approach with probability function(1 file has the implmentation with consensus criteria theta = 0.90 and other file with consensus criteria theta = 0.95)
 
 All done!
 
