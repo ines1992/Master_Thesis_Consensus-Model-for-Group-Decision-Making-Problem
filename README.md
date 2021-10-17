@@ -7,13 +7,10 @@ The linguistic computational model based on discrete fuzzy numbers has gained si
 group consensus with this linguistic model are not enough and need further exploration. For this reason, in this research study, we propose a novel consensus model based on this framework that overcomes some of the main disadvantages of the previously proposed methods in the literature. Moreover, we provide a new aggregation function on the set of discrete fuzzy numbers. We propose a semi-automatic algorithm that allows the experts to interact and modify their opinions during the consensus process. This novel method achieves a significantly greater convergence rate in Group Decision Making problems than the existing algorithms.
 
 
-Abstract- Spanish Version: 
-
-El modelo lingüístico computacional basado en números borrosos discretos ha ganado gran interés entre los investigadores por sus interesantes propiedades. Sin embargo, la investigación realizada hasta ahora en el tema de consenso en grupo con este modelo lingüístico no es suficiente y necesita un mayor desarrollo. Por esta razón, en este proyecto, se propone un modelo de consenso basado en este marco que soluciona algunas de las principales desventajas de los anteriores propuestas en la literatura. Para ello, se presenta una nueva función de agregación en el conjunto de números borrosos discretos y se propone un algoritmo semiautomático que permite a los expertos interactuar y modificar sus opiniones durante el proceso de consenso. Este nuevo modelo logra una tasa significativamente mayor de convergencia en los problemas de toma de decisiones grupales en comparación con los algoritmos existentes.
 
 Publication: 
 Initial work of this research was published in IEEE conference (https://ieeexplore.ieee.org/document/9494425). 
-Also, It was published on IEEE CIS Website: https://cis.ieee.org/images/files/Documents/research-grants/Improving_the_Consensus_Models_For_Group_Decision-making_Problems_Based_on_Discrete_Fuzzy_Numbers_V2.pdf
+
 
 Awards received for this study: 
 IEEE Computational Intelligence Society Graduate Student Research Grant 2020
@@ -28,6 +25,12 @@ Then you just download the repository and import into the python jupyter noteboo
 1. NUMPY
 2. PANDAS
 3. MATH
+
+NOTE:  In the repository, there are 4 main  code files:
+1- Reference Paper Implementation : includes our implemented code of the algorithm of "Measuring and reaching consensus in group decision making with the
+linguistic computing model based on discrete fuzzy numbers, Xiao-yu Ma, Meng Zhao, Xiao Zou".
+2-Proposed Implementation (Random approach): includes our implemented codes of our own approach with random function(1-3 files have the implmentation with consensus criteria theta = 0.90 and 4-6 files with consensus criteria theta = 0.95)
+3-Proposed Implementation (Probability approach): includes our implemented codes of our own approach with probability function(1 file has the implmentation with consensus criteria theta = 0.90 and other file with consensus criteria theta = 0.95)
 
 All done!
 
