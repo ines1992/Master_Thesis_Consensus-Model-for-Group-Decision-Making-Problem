@@ -36,7 +36,4 @@ All done!
 
 Thanks for visiting the repositiory and use my work. Please dont forget to cite the work!
 
-Regards, 
-Ines Abdennaji
-
 
